@@ -14,7 +14,7 @@ export const myProjects = [
     ],
     href: "https://github.com/smuke123/ProClean_ERP",
     logo: "",
-    image: getAssetPath("assets/projects/accessories.jpg"),
+    image: getAssetPath("assets/projects/Proclean.jpeg"),
     tags: [
       {
         id: 1,
@@ -51,7 +51,7 @@ export const myProjects = [
     ],
     href: "https://github.com/smuke123/DismetWebPage",
     logo: "",
-    image: getAssetPath("assets/projects/auth-system.jpg"),
+    image: getAssetPath("assets/projects/DismetWeb.jpeg"),
     tags: [
       {
         id: 1,
@@ -88,7 +88,7 @@ export const myProjects = [
     ],
     href: "https://github.com/smuke123/StudentsPerfomanceAnalysis",
     logo: "",
-    image: getAssetPath("assets/projects/blazor-app.jpg"),
+    image: getAssetPath("assets/projects/StudentAnalysis.png"),
     tags: [
       {
         id: 1,
@@ -125,7 +125,7 @@ export const myProjects = [
     ],
     href: "https://github.com/smuke123/ChallengeFlutterGreenGo",
     logo: "",
-    image: getAssetPath("assets/projects/game-engine.jpg"),
+    image: getAssetPath("assets/projects/FlutterChallenge.jpeg"),
     tags: [
       {
         id: 1,

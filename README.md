@@ -94,10 +94,3 @@ Assets used in the project can be found [here](https://github.com/user-attachmen
 
 ---
 
-## 💡 ¿Sugerencias o Feedback?
-Si tienes alguna sugerencia o comentario, no dudes en contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/edgar-santiago-ariza-garc%C3%ADa-835221398/) o [email](mailto:edgarariza6@outlook.com).
-
----
-
-## ⭐ ¿Te gusta este proyecto?
-¡Dale una estrella al repositorio y sígueme en [GitHub](https://github.com/smuke123) para más contenido!
