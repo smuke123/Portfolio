@@ -4,7 +4,7 @@ Un portafolio moderno y animado en 3D construido con React, Three.js, TailwindCS
 
 ---
 
-## 📚 Table of Contents
+## 📚 Tabla de contenidos
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
@@ -17,7 +17,7 @@ Un portafolio moderno y animado en 3D construido con React, Three.js, TailwindCS
 
 ---
 
-## ✨ Features
+## ✨ Caracteristicas
 
 - 🔥 3D visuals powered by **React Three Fiber** and **Drei**
 - ⚡ Smooth transitions and scroll-based animations using **Framer Motion**

@@ -1,3 +1,5 @@
+import { getAssetPath } from '../utils/getAssetPath';
+
 export const myProjects = [
   {
     id: 1,
@@ -12,27 +14,27 @@ export const myProjects = [
     ],
     href: "https://github.com/smuke123/ProClean_ERP",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: getAssetPath("assets/projects/accessories.jpg"),
     tags: [
       {
         id: 1,
         name: "React",
-        path: "/assets/logos/react.svg",
+        path: getAssetPath("assets/logos/react.svg"),
       },
       {
         id: 2,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg",
+        path: getAssetPath("assets/logos/javascript.svg"),
       },
       {
         id: 3,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        path: getAssetPath("assets/logos/tailwindcss.svg"),
       },
       {
         id: 4,
         name: "Git",
-        path: "/assets/logos/git.svg",
+        path: getAssetPath("assets/logos/git.svg"),
       },
     ],
   },
@@ -49,27 +51,27 @@ export const myProjects = [
     ],
     href: "https://github.com/smuke123/DismetWebPage",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: getAssetPath("assets/projects/auth-system.jpg"),
     tags: [
       {
         id: 1,
         name: "HTML5",
-        path: "/assets/logos/html5.svg",
+        path: getAssetPath("assets/logos/html5.svg"),
       },
       {
         id: 2,
         name: "CSS3",
-        path: "/assets/logos/css3.svg",
+        path: getAssetPath("assets/logos/css3.svg"),
       },
       {
         id: 3,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg",
+        path: getAssetPath("assets/logos/javascript.svg"),
       },
       {
         id: 4,
         name: "Git",
-        path: "/assets/logos/git.svg",
+        path: getAssetPath("assets/logos/git.svg"),
       },
     ],
   },
@@ -86,27 +88,27 @@ export const myProjects = [
     ],
     href: "https://github.com/smuke123/StudentsPerfomanceAnalysis",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: getAssetPath("assets/projects/blazor-app.jpg"),
     tags: [
       {
         id: 1,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg",
+        path: getAssetPath("assets/logos/javascript.svg"),
       },
       {
         id: 2,
         name: "Git",
-        path: "/assets/logos/git.svg",
+        path: getAssetPath("assets/logos/git.svg"),
       },
       {
         id: 3,
         name: "GitHub",
-        path: "/assets/logos/github.svg",
+        path: getAssetPath("assets/logos/github.svg"),
       },
       {
         id: 4,
         name: "VSCode",
-        path: "/assets/logos/visualstudiocode.svg",
+        path: getAssetPath("assets/logos/visualstudiocode.svg"),
       },
     ],
   },
@@ -123,27 +125,27 @@ export const myProjects = [
     ],
     href: "https://github.com/smuke123/ChallengeFlutterGreenGo",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: getAssetPath("assets/projects/game-engine.jpg"),
     tags: [
       {
         id: 1,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg",
+        path: getAssetPath("assets/logos/javascript.svg"),
       },
       {
         id: 2,
         name: "Git",
-        path: "/assets/logos/git.svg",
+        path: getAssetPath("assets/logos/git.svg"),
       },
       {
         id: 3,
         name: "GitHub",
-        path: "/assets/logos/github.svg",
+        path: getAssetPath("assets/logos/github.svg"),
       },
       {
         id: 4,
         name: "VSCode",
-        path: "/assets/logos/visualstudiocode.svg",
+        path: getAssetPath("assets/logos/visualstudiocode.svg"),
       },
     ],
   },
@@ -153,17 +155,17 @@ export const mySocials = [
   {
     name: "WhatsApp",
     href: "https://wa.me/573005495453",
-    icon: "/assets/socials/whatsApp.svg",
+    icon: getAssetPath("assets/socials/whatsApp.svg"),
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/edgar-santiago-ariza-garc%C3%ADa-835221398/",
-    icon: "/assets/socials/linkedIn.svg",
+    icon: getAssetPath("assets/socials/linkedIn.svg"),
   },
   {
     name: "GitHub",
     href: "https://github.com/smuke123",
-    icon: "/assets/socials/github.svg",
+    icon: getAssetPath("assets/socials/github.svg"),
   },
 ];
 
