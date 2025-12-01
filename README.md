@@ -1,8 +1,6 @@
-# 🚀 3D Developer Portfolio
+# 🚀 Portafolio 3D - Edgar Santiago Ariza García
 
-A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
-
-![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
+Un portafolio moderno y animado en 3D construido con React, Three.js, TailwindCSS y efectos de animación — diseñado para destacar y mostrar habilidades de manera creativa.
 
 ---
 
@@ -89,28 +87,17 @@ Assets used in the project can be found [here](https://github.com/user-attachmen
 
 ---
 
-## 📬 Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.sanatidev/reels/) 
-[![Static Badge](https://img.shields.io/badge/Youtube-%23FF0033?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sanati/) 
+## 📬 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-santiago-ariza-garc%C3%ADa-835221398/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/smuke123)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarariza6@outlook.com) 
 
 ---
 
-## 💡 Suggestions or Feedback?
-Leave a comment on the [YouTube video](https://youtu.be/S9UQItTpwUQ) or open an issue here on GitHub.<br/>
-👉 What should I build next?
-
-- A beautiful Landing Page
-
-- A complete E-commerce site
-
-- A fun App Clone (YouTube, Netflix, etc.)
-
-Or another interactive Portfolio
-
-Let me know!
+## 💡 ¿Sugerencias o Feedback?
+Si tienes alguna sugerencia o comentario, no dudes en contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/edgar-santiago-ariza-garc%C3%ADa-835221398/) o [email](mailto:edgarariza6@outlook.com).
 
 ---
 
-## ⭐ Like This Project?
-Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
+## ⭐ ¿Te gusta este proyecto?
+¡Dale una estrella al repositorio y sígueme en [GitHub](https://github.com/smuke123) para más contenido!
